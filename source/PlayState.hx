@@ -900,7 +900,7 @@ class PlayState extends MusicBeatState
 		FlxG.fixedTimestep = false;
 		moveCameraSection(0);
         
-        var creditTxt:FlxText = new FlxText(4,healthBarBG.y + 20,0,("Port by (Name) "), 24); 
+        var creditTxt:FlxText = new FlxText(4,healthBarBG.y + 20,0,("Port by Kola"), 24); 
 
 creditTxt.scrollFactor.set(); 
 
@@ -915,7 +915,9 @@ creditTxt.borderStyle = FlxTextBorderStyle.OUTLINE;
 add(creditTxt);
 
 
+       
         
+         
 		healthBarBG = new AttachedSprite('healthBar');
 		healthBarBG.y = FlxG.height * 0.89;
 		healthBarBG.screenCenter(X);
