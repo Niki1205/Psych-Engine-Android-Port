@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MoonzyX_assets.png"><SubTexture name="MoonzyX idle dance0000" x="0" y="0" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0001" x="447" y="0" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0002" x="894" y="0" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0003" x="1341" y="0" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0004" x="1788" y="0" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0005" x="0" y="531" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0006" x="447" y="531" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0007" x="894" y="531" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0008" x="1341" y="531" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0009" x="1788" y="531" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0010" x="0" y="1062" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0011" x="447" y="1062" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX idle dance0012" x="894" y="1062" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note left0000" x="1341" y="1062" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note left0001" x="1788" y="1062" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note left0002" x="0" y="1593" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note down0000" x="447" y="1593" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note down0001" x="894" y="1593" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note down0002" x="1341" y="1593" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note up0000" x="1788" y="1593" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note up0001" x="0" y="2124" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note up0002" x="447" y="2124" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note right0000" x="894" y="2124" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note right0001" x="1341" y="2124" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+<SubTexture name="MoonzyX note right0002" x="1788" y="2124" width="447" height="531" frameX="0" frameY="0" frameWidth="447" frameHeight="531" />
+</TextureAtlas>
