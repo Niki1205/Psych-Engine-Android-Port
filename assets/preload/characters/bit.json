@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				227
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bit RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				235
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "bit HEY!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				238
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bit idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				239
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bit LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				126
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bit DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-38,
+				237
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bit UP",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bit_assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bit",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
